@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-sm: 350px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  
+  --color-black-*: initial;
+  --color-brown: oklch(36.26% 0.056 27.52);
+  --color-light-brown: oklch(42.68% 0.049 28.81);
+  --color-dark-brown: oklch(22.89% 0.031 28.49);
+  --color-black: oklch(21.89% 0.007 32.43);
+  --color-white: oklch(90.58% 0.027 56.72);
+  --color-cyan: oklch(80.67% 0.207 196.54);
+  --color-light-cyan: oklch(89.82% 0.158 196.95);
+  --color-dark-cyan: oklch(62.39% 0.175 197.07);
+  --color-orange: oklch(71.68% 0.177 67.77);
+  --color-light-orange: oklch(82.99% 0.12 72.76);
+  --color-dark-orange: oklch(61.71% 0.143 67.79);
+  --color-grey: oklch(43.97% 0.016 160.36);
+  --color-light-grey: oklch(58.66% 0.042 32.55);
+  --color-dark-grey: oklch(30.69% 0.016 156.99);
+
+  
+}
+
+body {
+  @apply bg-dark-brown/95;
+}
