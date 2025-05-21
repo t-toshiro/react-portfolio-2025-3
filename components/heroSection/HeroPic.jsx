@@ -9,7 +9,7 @@ const HeroPic = () => {
       viewport={{ once: false, amount: 0 }}
     >
       <img
-        src="../../public/images/HeroImage.jpg"
+        src="/images/HeroImage.jpg"
         alt="Toshiro"
         className="max-h-[450px] w-auto rounded-full"
       />

@@ -8,7 +8,7 @@ const projects = [
     name: "Pokedex",
     year: "Feb2025",
     align: "right",
-    image: "../../public/images/pokemon.png",
+    image: "/images/pokemon.png",
     link: "https://main.dzqyng7j71io0.amplifyapp.com/",
   },
   // {
