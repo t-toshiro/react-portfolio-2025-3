@@ -3,7 +3,7 @@ import ContactMeMain from "../components/contactMeSection/ContactMeMain";
 import FooterMain from "../components/footer/FooterMain";
 import HeroHelper from "../components/heroSection/HeroHelper";
 import HeroMain from "../components/heroSection/HeroMain";
-import NavbarMain from "../components/Navbar/NavbarMain";
+import NavbarMain from "../components/navbar/NavbarMain";
 import ProjectMain from "../components/projectSection/ProjectMain";
 import SkillsMain from "../components/skillsSection/SkillsMain";
 import SubSkills from "../components/skillsSection/SubSkills";
