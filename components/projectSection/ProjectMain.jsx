@@ -11,27 +11,20 @@ const projects = [
     image: "/images/pokemon.png",
     link: "https://main.dzqyng7j71io0.amplifyapp.com/",
   },
-  // {
-  //   name: "Moola App",
-  //   year: "Sept2022",
-  //   align: "left",
-  //   image: "../../public/images/website-img-2.webp",
-  //   link: "#",
-  // },
-  // {
-  //   name: "Tourzania",
-  //   year: "Jan2023",
-  //   align: "right",
-  //   image: "../../public/images/website-img-3.jpg",
-  //   link: "#",
-  // },
-  // {
-  //   name: "Bank of Luck",
-  //   year: "May2024",
-  //   align: "left",
-  //   image: "../../public/images/website-img-4.jpg",
-  //   link: "#",
-  // },
+  {
+    name: "Blog App",
+    year: "Aug2025",
+    align: "left",
+    image: "/images/blog.png",
+    link: "https://main.d20b2ejptysl1i.amplifyapp.com/",
+  },
+  {
+    name: "Note App",
+    year: "Aug2025",
+    align: "right",
+    image: "/images/note.png",
+    link: "https://main.d38unknmpwuqbt.amplifyapp.com/",
+  },
 ];
 const ProjectMain = () => {
   return (
